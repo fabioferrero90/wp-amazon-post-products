@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Amazon Post Products
-Description: Create a grid of Amazon Products mentioned in post content using official Amazon PA-API.
+Plugin Name: Product Grid from links on Posts
+Description: Create a grid of Amazon Products mentioned in post content using official PA-API.
 Version: 1.0.2
 Author: Fabio Ferrero
 */
