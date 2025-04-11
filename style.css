@@ -1,0 +1,13 @@
+.amazon-products-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+.amazon-product img {
+    width: 100%;
+    height: auto;
+}
+.amazon-product p {
+    text-align: center;
+    font-size: 14px;
+}
