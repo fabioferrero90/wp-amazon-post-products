@@ -3,11 +3,11 @@
 
 # WP Amazon Post Product
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/fabioferrero90/wp-amazon-post-product?include_prereleases)](https://img.shields.io/github/v/release/fabioferrero90/wp-amazon-post-product?include_prereleases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/fabioferrero90/wp-amazon-post-product)](https://img.shields.io/github/last-commit/fabioferrero90/wp-amazon-post-product)
-[![GitHub issues](https://img.shields.io/github/issues-raw/fabioferrero90/wp-amazon-post-product)](https://img.shields.io/github/issues-raw/fabioferrero90/wp-amazon-post-product)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/fabioferrero90/wp-amazon-post-product)](https://img.shields.io/github/issues-pr/fabioferrero90/wp-amazon-post-product)
-[![GitHub](https://img.shields.io/github/license/fabioferrero90/wp-amazon-post-product)](https://img.shields.io/github/license/fabioferrero90/wp-amazon-post-product)
+![GitHub Release](https://img.shields.io/github/v/release/fabioferrero90/wp-amazon-post-products)
+![GitHub last commit](https://img.shields.io/github/last-commit/fabioferrero90/wp-amazon-post-products)
+[![GitHub issues](https://img.shields.io/github/issues-raw/fabioferrero90/wp-amazon-post-products)](https://img.shields.io/github/issues-raw/fabioferrero90/wp-amazon-post-products)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/fabioferrero90/wp-amazon-post-products)](https://img.shields.io/github/issues-pr/fabioferrero90/wp-amazon-post-products)
+[![GitHub](https://img.shields.io/github/license/fabioferrero90/wp-amazon-post-products)](https://img.shields.io/github/license/fabioferrero90/wp-amazon-post-products)
 
 A WordPress plugin that automatically detects Amazon product links in your content and displays them in an elegant, responsive grid or slider.
 
